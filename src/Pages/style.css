@@ -1,0 +1,30 @@
+
+
+#nav{
+  
+    position: sticky;
+    top: 0;
+    z-index: 2;
+  
+  }
+
+.hogwarts{
+   position: absolute;
+   left: 73em;
+   bottom: 14.5em;
+}
+
+.lottie{
+  position: absolute;
+  left: 52em;
+  top: 9.5em;
+}
+
+Table{
+    margin-top: 10em;
+    
+}
+
+th,td{
+  text-align: center;
+}
