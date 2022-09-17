@@ -56,6 +56,3 @@ function DarkExample({data}) {
 export default DarkExample;
 
  
-          {/* <i className="fi fi-rr-trash delete" onClick={(e)=>{
-            deleteRow(e)
-          }}></i></td> */}
